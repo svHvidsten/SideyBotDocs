@@ -1,0 +1,234 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: Guides.Chart
+  name: Chart
+  href: guides/chart/chart.html
+- uid: Guides.Chart.Pattern
+  name: Pattern
+  href: guides/chart/pattern.html
+- uid: Guides.Client
+  name: Client
+  href: guides/client/client.html
+- uid: Guides.Client.Guild
+  name: Guild
+  href: guides/client/guild/guild.html
+- uid: Guides.Client.Guild.Help
+  name: Help
+  href: guides/client/guild/help.html
+- uid: Guides.Client.Guild.PingMs
+  name: Ping Milliseconds
+  href: guides/client/guild/pingms.html
+- uid: Guides.Client.Guild.Random
+  name: Random
+  href: guides/client/guild/random.html
+- uid: Guides.Client.Guild.Topic
+  name: Topic
+  href: guides/client/guild/topic.html
+- uid: Guides.Image
+  name: Image
+  href: guides/image/image.html
+- uid: Guides.Image.Memes
+  name: Image Memes
+  href: guides/image/memes/memes.html
+- uid: Guides.Image.Memes.Faceplate
+  name: Faceplate
+  href: guides/image/memes/faceplate.html
+- uid: Guides.Image.Memes.Fact
+  name: Fact
+  href: guides/image/memes/fact.html
+- uid: Guides.Image.Memes.Highway
+  name: Highway
+  href: guides/image/memes/highway.html
+- uid: Guides.Image.Memes.JaredSelfie
+  name: Jared Selfie
+  href: guides/image/memes/jaredselfie.html
+- uid: Guides.Image.Memes.Squad
+  name: Squad
+  href: guides/image/memes/squad.html
+- uid: Guides.Image.Memes.Tucker
+  name: Tucker
+  href: guides/image/memes/tucker.html
+- uid: Guides.Image.Utility
+  name: Image Utility
+  href: guides/image/utility/utility.html
+- uid: Guides.Image.Utility.Brightness
+  name: Brightness
+  href: guides/image/utility/brightness.html
+- uid: Guides.Image.Utility.Contrast
+  name: Contrast
+  href: guides/image/utility/contrast.html
+- uid: Guides.Image.Utility.Resize
+  name: Resize
+  href: guides/image/utility/resize.html
+- uid: Guides.Image.Utility.Rotate
+  name: Rotate
+  href: guides/image/utility/rotate.html
+- uid: Guides.Image.Utility.Saturate
+  name: Saturate
+  href: guides/image/utility/saturate.html
+- uid: Guides.Introduction
+  name: Introduction
+  href: guides/introduction/intro.html
+- uid: Guides.Miscellaneous
+  name: Miscellaneous
+  href: guides/miscellaneous/miscellaneous.html
+- uid: Guides.Miscellaneous.Slots
+  name: Slots
+  href: guides/miscellaneous/slots.html
+- uid: Guides.Text.Memes
+  name: Text Memes
+  href: guides/text/memes/memes.html
+- uid: Guides.Text.Memes.Bew
+  name: Bew
+  href: guides/text/memes/bew.html
+- uid: Guides.Text.Memes.Lean
+  name: Lean
+  href: guides/text/memes/lean.html
+- uid: Guides.Text.Memes.Pasta
+  name: Pasta
+  href: guides/text/memes/pasta.html
+- uid: Guides.Text.Utility
+  name: Text Utility
+  href: guides/text/utility/utility.html
+- uid: Guides.Text.Utility.Acronym
+  name: Acronym
+  href: guides/text/utility/acronym.html
+- uid: Guides.Text.Utility.Lowercase
+  name: Lowercase
+  href: guides/text/utility/lowercase.html
+- uid: Guides.Text.Utility.Permutations
+  name: Permutations
+  href: guides/text/utility/permutations.html
+- uid: Guides.Text.Utility.Shuffle
+  name: Shuffle
+  href: guides/text/utility/shuffle.html
+- uid: Guides.Text.Utility.Uppercase
+  name: Uppercase
+  href: guides/text/utility/uppercase.html
+- uid: Guides.Unilang
+  name: Unilang
+  href: guides/unilang/unilang.html
+- uid: Guides.Unilang.Arpeggiator
+  name: Arpeggiator
+  href: guides/unilang/arpeggiator.html
+- uid: Guides.Unilang.Bpm
+  name: BPM
+  href: guides/unilang/bpm.html
+- uid: Guides.Unilang.ChartEvent
+  name: Chart Event
+  href: guides/unilang/chartevent.html
+- uid: Guides.Unilang.Chord
+  name: Chord
+  href: guides/unilang/chord.html
+- uid: Guides.Unilang.Code
+  name: Code
+  href: guides/unilang/code.html
+- uid: Guides.Unilang.Force
+  name: Force
+  href: guides/unilang/force.html
+- uid: Guides.Unilang.Hopo
+  name: HOPO
+  href: guides/unilang/hopo.html
+- uid: Guides.Unilang.JumpStep
+  name: Jump Step
+  href: guides/unilang/jumpstep.html
+- uid: Guides.Unilang.Letters
+  name: Letters
+  href: guides/unilang/letters.html
+- uid: Guides.Unilang.Load
+  name: Load
+  href: guides/unilang/load.html
+- uid: Guides.Unilang.Mirror
+  name: Mirror
+  href: guides/unilang/mirror.html
+- uid: Guides.Unilang.Note
+  name: Note
+  href: guides/unilang/note.html
+- uid: Guides.Unilang.Null
+  name: "Null"
+  href: guides/unilang/null.html
+- uid: Guides.Unilang.Pattern
+  name: Pattern
+  href: guides/unilang/pattern.html
+- uid: Guides.Unilang.Quantization
+  name: Quantization
+  href: guides/unilang/quantization.html
+- uid: Guides.Unilang.Random
+  name: Random
+  href: guides/unilang/random.html
+- uid: Guides.Unilang.Reflect
+  name: Reflect
+  href: guides/unilang/reflect.html
+- uid: Guides.Unilang.Repeat
+  name: Repeat
+  href: guides/unilang/repeat.html
+- uid: Guides.Unilang.Section
+  name: Section
+  href: guides/unilang/section.html
+- uid: Guides.Unilang.Seed
+  name: Seed
+  href: guides/unilang/seed.html
+- uid: Guides.Unilang.SetNoteProperties
+  name: Set Note Properties
+  href: guides/unilang/setnoteproperties.html
+- uid: Guides.Unilang.Shift
+  name: Shift
+  href: guides/unilang/shift.html
+- uid: Guides.Unilang.ShorthandChord
+  name: Shorthand Chord
+  href: guides/unilang/shorthandchord.html
+- uid: Guides.Unilang.ShorthandQuantization
+  name: Shorthand Quantization
+  href: guides/unilang/shorthandquantization.html
+- uid: Guides.Unilang.SnapBeat
+  name: Snap Beat
+  href: guides/unilang/snapbeat.html
+- uid: Guides.Unilang.SnapMeasure
+  name: Snap Measure
+  href: guides/unilang/snapmeasure.html
+- uid: Guides.Unilang.Starpower
+  name: Starpower
+  href: guides/unilang/starpower.html
+- uid: Guides.Unilang.Strum
+  name: Strum
+  href: guides/unilang/strum.html
+- uid: Guides.Unilang.SustainGap
+  name: Sustain Gap
+  href: guides/unilang/sustaingap.html
+- uid: Guides.Unilang.Swap
+  name: Swap
+  href: guides/unilang/swap.html
+- uid: Guides.Unilang.Sweep
+  name: Sweep
+  href: guides/unilang/sweep.html
+- uid: Guides.Unilang.Tap
+  name: Tap
+  href: guides/unilang/tap.html
+- uid: Guides.Unilang.TimeSignature
+  name: Time Signature
+  href: guides/unilang/timesignature.html
+- uid: Guides.Unilang.TrackEvent
+  name: Track Event
+  href: guides/unilang/trackevent.html
+- uid: Guides.Unilang.UnsnapSustain
+  name: Unsnap Sustain
+  href: guides/unilang/unsnapsustain.html
+- uid: Guides.Unilang.ZigZag
+  name: Zig Zag
+  href: guides/unilang/zigzag.html
+- uid: Guides.Utility
+  name: Utility
+  href: guides/utility/utility.html
+- uid: Guides.Utility.Bpm
+  name: BPM
+  href: guides/utility/bpm.html
+- uid: Guides.Utility.DiceRoll
+  name: Dice Roll
+  href: guides/utility/diceroll.html
+- uid: Guides.Utility.HeadsOrTails
+  name: Heads or Tails
+  href: guides/utility/headsortails.html
+- uid: Guides.Utility.Nps
+  name: NPS
+  href: guides/utility/nps.html

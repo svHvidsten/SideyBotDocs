@@ -1,0 +1,2405 @@
+{
+  "homepages": [],
+  "source_base_path": "D:/a/SideyBotDocs/SideyBotDocs/docs",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Resource",
+      "output": {
+        "resource": {
+          "relative_path": "index.json"
+        }
+      },
+      "is_incremental": false
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/index.html",
+          "hash": "QvhANdPf53bgDezpJL9vqVMdNBHawk1/ik/FQlTQBsg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "guides/chart/chart.md",
+      "output": {
+        ".html": {
+          "relative_path": "guides/chart/chart.html",
+          "hash": "sCtm8DNeX29+e1dDVcUFNH3jIUOEvGTVUP/lG4ocmsk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "guides/chart/pattern.md",
+      "output": {
+        ".html": {
+          "relative_path": "guides/chart/pattern.html",
+          "hash": "ur57e6piCera1+qgMjBGxwio9AqqmYTaopjiIQjL0xQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "guides/client/client.md",
+      "output": {
+        ".html": {
+          "relative_path": "guides/client/client.html",
+          "hash": "k8jkRD3cOSeP3tJ7XIzxQOV3wDnPDj9At6ikrkQEKLc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "guides/client/guild/guild.md",
+      "output": {
+        ".html": {
+          "relative_path": "guides/client/guild/guild.html",
+          "hash": "Yvq2dIUbL0R3a0nm2NVvPzuVPfDaPbBi1PojfluD5rU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "guides/client/guild/help.md",
+      "output": {
+        ".html": {
+          "relative_path": "guides/client/guild/help.html",
+          "hash": "jYAJK9CWL75SyQ08r4lIlxZVpZvX6LkjVYwL5iv/dY8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "guides/client/guild/pingms.md",
+      "output": {
+        ".html": {
+          "relative_path": "guides/client/guild/pingms.html",
+          "hash": "YoIzFGW5uTYWwhF9iPUEvGSe3XAqr226Fx06ggGLvb8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "guides/client/guild/random.md",
+      "output": {
+        ".html": {
+          "relative_path": "guides/client/guild/random.html",
+          "hash": "sqyODHYqtH65EkvCpoKZ/uzXVjGlqF44IkRpB8tyPi0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "guides/client/guild/topic.md",
+      "output": {
+        ".html": {
+          "relative_path": "guides/client/guild/topic.html",
+          "hash": "B9WyGvGLxBZSLAur9SbV3iyQykflafOZVqZFmobFyDU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "guides/image/image.md",
+      "output": {
+        ".html": {
+          "relative_path": "guides/image/image.html",
+          "hash": "g+0fsBVeJc8EuznSvTOypuEAdxzmm9bkpoY2lVErTJw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "guides/image/memes/faceplate.md",
+      "output": {
+        ".html": {
+          "relative_path": "guides/image/memes/faceplate.html",
+          "hash": "I1HP217cGdLJRqMqdS0sj/84I4leJR2igWJORTewzbc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "guides/image/memes/fact.md",
+      "output": {
+        ".html": {
+          "relative_path": "guides/image/memes/fact.html",
+          "hash": "Zb6gXaxnNajxr8+pKC3l/eq2Tgrqm6uuXNV64zVbe94="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "guides/image/memes/highway.md",
+      "output": {
+        ".html": {
+          "relative_path": "guides/image/memes/highway.html",
+          "hash": "GWbA4i8h8zLhonrJuZ211sKZPx9jq5pNguVCvYg+2DY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "guides/image/memes/jaredselfie.md",
+      "output": {
+        ".html": {
+          "relative_path": "guides/image/memes/jaredselfie.html",
+          "hash": "2uAGUhw8Mrwpvo0k/COIU7VrTCpmnOxRfnBV62huEcU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "guides/image/memes/memes.md",
+      "output": {
+        ".html": {
+          "relative_path": "guides/image/memes/memes.html",
+          "hash": "lFjsBLzClYrCE38buOa9OKNJ2vj8/ppigdk61UPaBWw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "guides/image/memes/squad.md",
+      "output": {
+        ".html": {
+          "relative_path": "guides/image/memes/squad.html",
+          "hash": "4taIg1/weu5g9GZH7VBdRmBIj93ONlV81KGkzR73itM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "guides/image/memes/tucker.md",
+      "output": {
+        ".html": {
+          "relative_path": "guides/image/memes/tucker.html",
+          "hash": "B24vBUaWAVR3ddWpKgeXkLq/XNeD0m1+tpz+EzbbHRU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "guides/image/utility/brightness.md",
+      "output": {
+        ".html": {
+          "relative_path": "guides/image/utility/brightness.html",
+          "hash": "1E9NmjK7Ao1pAHWG5rm3pZdIJyrDNn2Y3PLa1IAowu8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "guides/image/utility/contrast.md",
+      "output": {
+        ".html": {
+          "relative_path": "guides/image/utility/contrast.html",
+          "hash": "AwwtIX8gnaMhzz3lkUcmGe8Fl2WIRgpJMyicHzuT1LI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "guides/image/utility/resize.md",
+      "output": {
+        ".html": {
+          "relative_path": "guides/image/utility/resize.html",
+          "hash": "LGr3UkckAGK+OASYmgWF+rR6RZuz3Fx89PRfHS1hnB8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "guides/image/utility/rotate.md",
+      "output": {
+        ".html": {
+          "relative_path": "guides/image/utility/rotate.html",
+          "hash": "X1ETqLfkq1zigkm07XaPtLOLj7XtRd52jV+GRps/v70="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "guides/image/utility/saturate.md",
+      "output": {
+        ".html": {
+          "relative_path": "guides/image/utility/saturate.html",
+          "hash": "GbjnNhQYyua9a88QE3gRnW350S0h5PY48sIOkP7Sq38="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "guides/image/utility/utility.md",
+      "output": {
+        ".html": {
+          "relative_path": "guides/image/utility/utility.html",
+          "hash": "3mK7nOXs59pYs0zABxtulbXIN3lHALhFoVmNquNFQ3g="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "guides/introduction/intro.md",
+      "output": {
+        ".html": {
+          "relative_path": "guides/introduction/intro.html",
+          "hash": "PvqB1hbBo2iiP7KbFvvb8iOxfU5lQg/sDhEVetrRmMI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "guides/miscellaneous/miscellaneous.md",
+      "output": {
+        ".html": {
+          "relative_path": "guides/miscellaneous/miscellaneous.html",
+          "hash": "4dZclbyKqpuoNheWM7I+/+HpXxPUsvNAPsxWvi/yqqk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "guides/miscellaneous/slots.md",
+      "output": {
+        ".html": {
+          "relative_path": "guides/miscellaneous/slots.html",
+          "hash": "nizAuM9IKFaIcKTlFFF+ql47jeDGOLFPf2vSFxA0ws0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "guides/text/memes/bew.md",
+      "output": {
+        ".html": {
+          "relative_path": "guides/text/memes/bew.html",
+          "hash": "9DWgXbGXOdUdHv02CME3q4moHu2J3oaYUEbcRDy1zwY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "guides/text/memes/lean.md",
+      "output": {
+        ".html": {
+          "relative_path": "guides/text/memes/lean.html",
+          "hash": "hRGiQr9hxEPrOR1oQ+LC6Y4mXg+qqf3lPDVP1yvJCHE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "guides/text/memes/memes.md",
+      "output": {
+        ".html": {
+          "relative_path": "guides/text/memes/memes.html",
+          "hash": "GtyRgYEyFqc6BpRn4vBVZDNekOLJy2Sl0v5ISCuPgWg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "guides/text/memes/pasta.md",
+      "output": {
+        ".html": {
+          "relative_path": "guides/text/memes/pasta.html",
+          "hash": "ihsFWA2L84ZW0Z5v0M9E1IxF+z4EJkw6QKNdMxRx2/o="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "guides/text/utility/acronym.md",
+      "output": {
+        ".html": {
+          "relative_path": "guides/text/utility/acronym.html",
+          "hash": "ePh1EYr0SJ98g0jLxpnKVKKoGxfmijXxymvR0T7u4c8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "guides/text/utility/lowercase.md",
+      "output": {
+        ".html": {
+          "relative_path": "guides/text/utility/lowercase.html",
+          "hash": "ycIPSW4StRiY008V25dNyblNVmyDMEyi+nI31ME8rIU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "guides/text/utility/permutations.md",
+      "output": {
+        ".html": {
+          "relative_path": "guides/text/utility/permutations.html",
+          "hash": "1PCQoHj+bHkPwUTB/ws46xl0aVRhq4hHl7JrybIvNLM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "guides/text/utility/shuffle.md",
+      "output": {
+        ".html": {
+          "relative_path": "guides/text/utility/shuffle.html",
+          "hash": "5Uhggy+FG+wnPvFlzN5XRuZO7o+RJu6dbiJVVTNjc4g="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "guides/text/utility/uppercase.md",
+      "output": {
+        ".html": {
+          "relative_path": "guides/text/utility/uppercase.html",
+          "hash": "XN0N8r/NdKzhm6RHdh12i+eP/lpJzFG62wwtlVXbNbo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "guides/text/utility/utility.md",
+      "output": {
+        ".html": {
+          "relative_path": "guides/text/utility/utility.html",
+          "hash": "QU4Q7BaJerpyOmo1/xIfcYG06inA3fkxXGrKMxCFle4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "UidNotFound"
+      ],
+      "type": "Toc",
+      "source_relative_path": "guides/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "guides/toc.html",
+          "hash": "xjhM+T54f4a1aDmGZXfUwUmh7EPGtzpvqVyUDmFN/aQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "guides/unilang/arpeggiator.md",
+      "output": {
+        ".html": {
+          "relative_path": "guides/unilang/arpeggiator.html",
+          "hash": "+WBGJEdwVxcRAAFiwnhrin7g74Bw+NSKOGm2Xq0K3Rc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "guides/unilang/bpm.md",
+      "output": {
+        ".html": {
+          "relative_path": "guides/unilang/bpm.html",
+          "hash": "bhSSzRMLzA58N2E5/n4+V8Rseznq17Hj9SDtM8DfQwE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "guides/unilang/chartevent.md",
+      "output": {
+        ".html": {
+          "relative_path": "guides/unilang/chartevent.html",
+          "hash": "wpph9JP1n6yH9KBnqXxqcHZkqKMuZfE9OVFDjLXOqxs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "guides/unilang/chord.md",
+      "output": {
+        ".html": {
+          "relative_path": "guides/unilang/chord.html",
+          "hash": "Jzc7m9LhT76qRs4yyQzvQ6GF/SukMW4+o/XNHMTg1+0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "guides/unilang/code.md",
+      "output": {
+        ".html": {
+          "relative_path": "guides/unilang/code.html",
+          "hash": "BMHTKYQh4xWvDc7aIY4/aTpNb2qH7gvvmMmUlnl+i2k="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "guides/unilang/force.md",
+      "output": {
+        ".html": {
+          "relative_path": "guides/unilang/force.html",
+          "hash": "OHJeXs9nnfqlWycd6JVSZYByDrIM3wPVneqRBMWCpzg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "guides/unilang/hopo.md",
+      "output": {
+        ".html": {
+          "relative_path": "guides/unilang/hopo.html",
+          "hash": "ur/b2eCGb+hBdkV3wrwxRvqeMekfWk6XTrMP2GT0o6w="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "guides/unilang/jumpstep.md",
+      "output": {
+        ".html": {
+          "relative_path": "guides/unilang/jumpstep.html",
+          "hash": "4AtN4Q/VEuj0LVoegcMDtb8nnGZtpJjL0ufNRtpVV2Y="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "guides/unilang/letters.md",
+      "output": {
+        ".html": {
+          "relative_path": "guides/unilang/letters.html",
+          "hash": "l6sl4Lj5sFRjqI4dG06S+96g+13ruSSuofWrZa3jpiI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "guides/unilang/load.md",
+      "output": {
+        ".html": {
+          "relative_path": "guides/unilang/load.html",
+          "hash": "+8Kct2Jwjz1KuHCb8tCV/BNVkMDBn3khg+NEdssruTg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "guides/unilang/mirror.md",
+      "output": {
+        ".html": {
+          "relative_path": "guides/unilang/mirror.html",
+          "hash": "f8TRlBpxJwHrWAIircl5sdphVWFzC6awGSE0zicTHfg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "guides/unilang/note.md",
+      "output": {
+        ".html": {
+          "relative_path": "guides/unilang/note.html",
+          "hash": "9y7ZI4ywYT6ZNaMR0zkoXs+rNag4hFmIFGJ4pA8f5RI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "guides/unilang/null.md",
+      "output": {
+        ".html": {
+          "relative_path": "guides/unilang/null.html",
+          "hash": "W9LmgE2pzTQ7GsNFSRZqVp8CKWRzp+7DXRv0YXXsfbQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "guides/unilang/pattern.md",
+      "output": {
+        ".html": {
+          "relative_path": "guides/unilang/pattern.html",
+          "hash": "RPIDiBiwhC4GiB7YV88DjFJpdO4QA6x3+iP0QhIZauk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "guides/unilang/quantization.md",
+      "output": {
+        ".html": {
+          "relative_path": "guides/unilang/quantization.html",
+          "hash": "plxWmq3tYkP2XgplfGBo3jTqMW0aMj+kR6ak1gqYeYI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "guides/unilang/random.md",
+      "output": {
+        ".html": {
+          "relative_path": "guides/unilang/random.html",
+          "hash": "V37rDmy3R/zjEigit8okAoXU2gakOcDxbr9FZDWfM2Y="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "guides/unilang/reflect.md",
+      "output": {
+        ".html": {
+          "relative_path": "guides/unilang/reflect.html",
+          "hash": "apZCCU2XRdND5bxIyrOk84WoD8lMyNgg6p2L+Ooi1Fk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "guides/unilang/repeat.md",
+      "output": {
+        ".html": {
+          "relative_path": "guides/unilang/repeat.html",
+          "hash": "DTwKsPx/pkrjB5RX3fn693nbxOdQHzC7OZP4Y8Qv+VE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "guides/unilang/section.md",
+      "output": {
+        ".html": {
+          "relative_path": "guides/unilang/section.html",
+          "hash": "VW13mxj4JDd5/UYKsRuKmxv5c/YwWtpbO9v0dw5gGfw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "guides/unilang/seed.md",
+      "output": {
+        ".html": {
+          "relative_path": "guides/unilang/seed.html",
+          "hash": "7+QgrsJxttFvOUIkO1QhRucI91d058KNIhpyMSslbxM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "guides/unilang/setnoteproperties.md",
+      "output": {
+        ".html": {
+          "relative_path": "guides/unilang/setnoteproperties.html",
+          "hash": "T4ER0FBy6BIAjUKsxSxdQaYfTAtNtkb2FMvBUnFuScM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "guides/unilang/shift.md",
+      "output": {
+        ".html": {
+          "relative_path": "guides/unilang/shift.html",
+          "hash": "ztcVnrf3kAne99NPsSmtPVDnjK45hny6joRKM1KCblk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "guides/unilang/shorthandchord.md",
+      "output": {
+        ".html": {
+          "relative_path": "guides/unilang/shorthandchord.html",
+          "hash": "9ZekhKTFUbqgKvDSy7goUZjP7ntEjU/IklDaY/ofnhw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "guides/unilang/shorthandquantization.md",
+      "output": {
+        ".html": {
+          "relative_path": "guides/unilang/shorthandquantization.html",
+          "hash": "4UZHAEjVTRBjQ584fUWIQICWJqmC0XUNZdsvQ/tKUqU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "guides/unilang/snapbeat.md",
+      "output": {
+        ".html": {
+          "relative_path": "guides/unilang/snapbeat.html",
+          "hash": "2rt6+sJQI98NscyBSypEhH3R+i8Gw0MnPM9Qa8CJwuY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "guides/unilang/snapmeasure.md",
+      "output": {
+        ".html": {
+          "relative_path": "guides/unilang/snapmeasure.html",
+          "hash": "PAyTrocNh4UWBxtZ0oWsYj00F+JWa7o+NJEiln1BWx8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "guides/unilang/starpower.md",
+      "output": {
+        ".html": {
+          "relative_path": "guides/unilang/starpower.html",
+          "hash": "YP0IVO+nmiMVnDomlbi4W4erkdTf0R6WujzNzm847Xw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "guides/unilang/strum.md",
+      "output": {
+        ".html": {
+          "relative_path": "guides/unilang/strum.html",
+          "hash": "YjHXFOmYfWY+rdzCpCYY2zrANhZ6PRjrJ7TBGURi1wg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "guides/unilang/sustaingap.md",
+      "output": {
+        ".html": {
+          "relative_path": "guides/unilang/sustaingap.html",
+          "hash": "hJtCrGvmZ2fDZo5P+IyS6jjXee39e3+S00L6eAUSTs4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "guides/unilang/swap.md",
+      "output": {
+        ".html": {
+          "relative_path": "guides/unilang/swap.html",
+          "hash": "GMUlwhBLewBoN1IBXVByY0Rkdukxsu6tWjEVlQoK9Yk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "guides/unilang/sweep.md",
+      "output": {
+        ".html": {
+          "relative_path": "guides/unilang/sweep.html",
+          "hash": "rK5BcjEK4k47zq3k7P3d4qDgJc3gFUtdAoQXXW3RI3s="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "guides/unilang/tap.md",
+      "output": {
+        ".html": {
+          "relative_path": "guides/unilang/tap.html",
+          "hash": "26oDdoeyFsklPEeykP31xhIUtZk4tOueXD4KTJXMiVo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "guides/unilang/timesignature.md",
+      "output": {
+        ".html": {
+          "relative_path": "guides/unilang/timesignature.html",
+          "hash": "bmf4pXa+rmEUEPPkoNjt0ep/ZgAUHTQunnGswuWzEUo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "guides/unilang/trackevent.md",
+      "output": {
+        ".html": {
+          "relative_path": "guides/unilang/trackevent.html",
+          "hash": "WIJgchy4iLzmjEUlCON4KXOzydElhmKL0g6niQKUY94="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "guides/unilang/unilang.md",
+      "output": {
+        ".html": {
+          "relative_path": "guides/unilang/unilang.html",
+          "hash": "1J2iqPBSy9w1YGJ19C1DorQeZwPsQLTtoqB62BpQkeU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "guides/unilang/unsnapsustain.md",
+      "output": {
+        ".html": {
+          "relative_path": "guides/unilang/unsnapsustain.html",
+          "hash": "2wch2xWSnK8ylHoUUyPPxtcceg19GfXEklhwNHIq63U="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "guides/unilang/zigzag.md",
+      "output": {
+        ".html": {
+          "relative_path": "guides/unilang/zigzag.html",
+          "hash": "jHFrz3L29RA0+5yASgxjSYSzZ7oSxRRwosHdzvpuZ84="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "guides/utility/bpm.md",
+      "output": {
+        ".html": {
+          "relative_path": "guides/utility/bpm.html",
+          "hash": "BlPpaEJSuITD40EKYuh8x6S/rirUA/sEG/GKvfDXngw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "guides/utility/diceroll.md",
+      "output": {
+        ".html": {
+          "relative_path": "guides/utility/diceroll.html",
+          "hash": "0e0bn5astjmO3WL8w7fRJxTO3CA8rh7r4INpkqb2ayo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "guides/utility/headsortails.md",
+      "output": {
+        ".html": {
+          "relative_path": "guides/utility/headsortails.html",
+          "hash": "ydY7JSFmoZnKOWCLRhoi2B3iHVaMd7JEJh0OAc8pwqE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "guides/utility/nps.md",
+      "output": {
+        ".html": {
+          "relative_path": "guides/utility/nps.html",
+          "hash": "7UdOtpWt/2gE8HgO8B1FSA+aG+7cbWX90cfiP767+Zo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "guides/utility/utility.md",
+      "output": {
+        ".html": {
+          "relative_path": "guides/utility/utility.html",
+          "hash": "/HXMP0khvKjgcbfQg4nQQWQXM5B2U0E1QzoNXzFIOko="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/chart_examples/pattern/example1.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/chart_examples/pattern/example1.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/chart_examples/pattern/example2.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/chart_examples/pattern/example2.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/image_examples/gradient.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/image_examples/gradient.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/image_examples/memes/faceplate/example1.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/image_examples/memes/faceplate/example1.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/image_examples/memes/faceplate/example2.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/image_examples/memes/faceplate/example2.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/image_examples/memes/fact/example1.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/image_examples/memes/fact/example1.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/image_examples/memes/fact/example2.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/image_examples/memes/fact/example2.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/image_examples/memes/highway/example1.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/image_examples/memes/highway/example1.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/image_examples/memes/jaredselfie/example1.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/image_examples/memes/jaredselfie/example1.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/image_examples/memes/jaredselfie/example2.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/image_examples/memes/jaredselfie/example2.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/image_examples/memes/squad/example1.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/image_examples/memes/squad/example1.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/image_examples/memes/squad/example2.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/image_examples/memes/squad/example2.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/image_examples/memes/tucker/example1.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/image_examples/memes/tucker/example1.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/image_examples/utility/brightness/example1.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/image_examples/utility/brightness/example1.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/image_examples/utility/brightness/example2.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/image_examples/utility/brightness/example2.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/image_examples/utility/contrast/example1.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/image_examples/utility/contrast/example1.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/image_examples/utility/contrast/example2.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/image_examples/utility/contrast/example2.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/image_examples/utility/resize/example1.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/image_examples/utility/resize/example1.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/image_examples/utility/rotate/example1.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/image_examples/utility/rotate/example1.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/image_examples/utility/rotate/example2.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/image_examples/utility/rotate/example2.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/image_examples/utility/saturate/example1.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/image_examples/utility/saturate/example1.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/image_examples/utility/saturate/example2.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/image_examples/utility/saturate/example2.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/unilang_examples/_unilang/example1.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/unilang_examples/_unilang/example1.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/unilang_examples/_unilang/example2.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/unilang_examples/_unilang/example2.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/unilang_examples/_unilang/example3.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/unilang_examples/_unilang/example3.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/unilang_examples/_unilang/example4.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/unilang_examples/_unilang/example4.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/unilang_examples/arpeggiator/example1.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/unilang_examples/arpeggiator/example1.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/unilang_examples/arpeggiator/example2.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/unilang_examples/arpeggiator/example2.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/unilang_examples/bpm/example1.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/unilang_examples/bpm/example1.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/unilang_examples/chart_event/example1.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/unilang_examples/chart_event/example1.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/unilang_examples/chord/example1.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/unilang_examples/chord/example1.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/unilang_examples/chord/example2.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/unilang_examples/chord/example2.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/unilang_examples/chord/example3.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/unilang_examples/chord/example3.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/unilang_examples/chord/example4.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/unilang_examples/chord/example4.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/unilang_examples/chord/example5.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/unilang_examples/chord/example5.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/unilang_examples/chord/example6.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/unilang_examples/chord/example6.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/unilang_examples/chord/example7.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/unilang_examples/chord/example7.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/unilang_examples/chord/example8.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/unilang_examples/chord/example8.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/unilang_examples/chord/example9.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/unilang_examples/chord/example9.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/unilang_examples/example/example.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/unilang_examples/example/example.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/unilang_examples/force/example1.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/unilang_examples/force/example1.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/unilang_examples/hopo/example1.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/unilang_examples/hopo/example1.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/unilang_examples/jump_step/example1.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/unilang_examples/jump_step/example1.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/unilang_examples/jump_step/example2.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/unilang_examples/jump_step/example2.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/unilang_examples/jump_step/example3.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/unilang_examples/jump_step/example3.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/unilang_examples/jump_step/example4.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/unilang_examples/jump_step/example4.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/unilang_examples/letters/example1.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/unilang_examples/letters/example1.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/unilang_examples/letters/example2.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/unilang_examples/letters/example2.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/unilang_examples/load/example1.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/unilang_examples/load/example1.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/unilang_examples/load/example2.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/unilang_examples/load/example2.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/unilang_examples/mirror/example1.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/unilang_examples/mirror/example1.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/unilang_examples/mirror/example2.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/unilang_examples/mirror/example2.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/unilang_examples/note/example1.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/unilang_examples/note/example1.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/unilang_examples/note/example2.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/unilang_examples/note/example2.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/unilang_examples/note/example3.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/unilang_examples/note/example3.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/unilang_examples/note/example4.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/unilang_examples/note/example4.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/unilang_examples/note/example5.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/unilang_examples/note/example5.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/unilang_examples/pattern/example1.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/unilang_examples/pattern/example1.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/unilang_examples/quantization/example1.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/unilang_examples/quantization/example1.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/unilang_examples/quantization/example3a.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/unilang_examples/quantization/example3a.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/unilang_examples/quantization/example3b.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/unilang_examples/quantization/example3b.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/unilang_examples/quantization/example3c.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/unilang_examples/quantization/example3c.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/unilang_examples/random/example1.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/unilang_examples/random/example1.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/unilang_examples/random/example2.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/unilang_examples/random/example2.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/unilang_examples/random/example3.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/unilang_examples/random/example3.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/unilang_examples/reflect/example1.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/unilang_examples/reflect/example1.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/unilang_examples/reflect/example2.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/unilang_examples/reflect/example2.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/unilang_examples/repeat/example1.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/unilang_examples/repeat/example1.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/unilang_examples/section/example1.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/unilang_examples/section/example1.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/unilang_examples/seed/example1.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/unilang_examples/seed/example1.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/unilang_examples/set_note_properties/example1.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/unilang_examples/set_note_properties/example1.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/unilang_examples/set_note_properties/example2.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/unilang_examples/set_note_properties/example2.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/unilang_examples/set_note_properties/example3.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/unilang_examples/set_note_properties/example3.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/unilang_examples/shift/example1.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/unilang_examples/shift/example1.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/unilang_examples/shift/example2.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/unilang_examples/shift/example2.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/unilang_examples/shift/example3.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/unilang_examples/shift/example3.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/unilang_examples/shorthand_chord/chord_a.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/unilang_examples/shorthand_chord/chord_a.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/unilang_examples/shorthand_chord/chord_b.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/unilang_examples/shorthand_chord/chord_b.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/unilang_examples/shorthand_chord/chord_c.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/unilang_examples/shorthand_chord/chord_c.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/unilang_examples/shorthand_chord/chord_d.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/unilang_examples/shorthand_chord/chord_d.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/unilang_examples/shorthand_chord/chord_e.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/unilang_examples/shorthand_chord/chord_e.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/unilang_examples/shorthand_chord/chord_f.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/unilang_examples/shorthand_chord/chord_f.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/unilang_examples/shorthand_chord/chord_g.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/unilang_examples/shorthand_chord/chord_g.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/unilang_examples/shorthand_chord/chord_h.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/unilang_examples/shorthand_chord/chord_h.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/unilang_examples/shorthand_chord/chord_i.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/unilang_examples/shorthand_chord/chord_i.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/unilang_examples/shorthand_chord/chord_j.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/unilang_examples/shorthand_chord/chord_j.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/unilang_examples/shorthand_chord/chord_k.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/unilang_examples/shorthand_chord/chord_k.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/unilang_examples/shorthand_chord/chord_l.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/unilang_examples/shorthand_chord/chord_l.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/unilang_examples/shorthand_chord/chord_m.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/unilang_examples/shorthand_chord/chord_m.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/unilang_examples/shorthand_chord/chord_n.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/unilang_examples/shorthand_chord/chord_n.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/unilang_examples/shorthand_chord/chord_o.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/unilang_examples/shorthand_chord/chord_o.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/unilang_examples/shorthand_chord/chord_p.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/unilang_examples/shorthand_chord/chord_p.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/unilang_examples/shorthand_chord/chord_q.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/unilang_examples/shorthand_chord/chord_q.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/unilang_examples/shorthand_chord/chord_r.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/unilang_examples/shorthand_chord/chord_r.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/unilang_examples/shorthand_chord/chord_s.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/unilang_examples/shorthand_chord/chord_s.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/unilang_examples/shorthand_chord/chord_t.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/unilang_examples/shorthand_chord/chord_t.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/unilang_examples/shorthand_chord/chord_u.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/unilang_examples/shorthand_chord/chord_u.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/unilang_examples/shorthand_chord/chord_v.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/unilang_examples/shorthand_chord/chord_v.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/unilang_examples/shorthand_chord/chord_w.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/unilang_examples/shorthand_chord/chord_w.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/unilang_examples/shorthand_chord/chord_x.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/unilang_examples/shorthand_chord/chord_x.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/unilang_examples/shorthand_chord/chord_y.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/unilang_examples/shorthand_chord/chord_y.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/unilang_examples/shorthand_chord/chord_z.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/unilang_examples/shorthand_chord/chord_z.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/unilang_examples/shorthand_chord/example1.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/unilang_examples/shorthand_chord/example1.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/unilang_examples/shorthand_chord/example2.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/unilang_examples/shorthand_chord/example2.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/unilang_examples/shorthand_quantization/example1.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/unilang_examples/shorthand_quantization/example1.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/unilang_examples/shorthand_quantization/example2.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/unilang_examples/shorthand_quantization/example2.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/unilang_examples/snap_beat/example1.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/unilang_examples/snap_beat/example1.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/unilang_examples/snap_beat/example2.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/unilang_examples/snap_beat/example2.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/unilang_examples/snap_measure/example1.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/unilang_examples/snap_measure/example1.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/unilang_examples/snap_measure/example2.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/unilang_examples/snap_measure/example2.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/unilang_examples/starpower/example1.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/unilang_examples/starpower/example1.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/unilang_examples/starpower/example2.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/unilang_examples/starpower/example2.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/unilang_examples/strum/example1.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/unilang_examples/strum/example1.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/unilang_examples/sustain_gap/example1.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/unilang_examples/sustain_gap/example1.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/unilang_examples/swap/example1.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/unilang_examples/swap/example1.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/unilang_examples/sweep/example1.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/unilang_examples/sweep/example1.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/unilang_examples/sweep/example2.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/unilang_examples/sweep/example2.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/unilang_examples/sweep/example3.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/unilang_examples/sweep/example3.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/unilang_examples/tap/example1.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/unilang_examples/tap/example1.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/unilang_examples/time_signature/example1.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/unilang_examples/time_signature/example1.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/unilang_examples/time_signature/example2.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/unilang_examples/time_signature/example2.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/unilang_examples/track_event/example1.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/unilang_examples/track_event/example1.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/unilang_examples/unsnap_sustain/example1.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/unilang_examples/unsnap_sustain/example1.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/unilang_examples/zigzag/example1.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/unilang_examples/zigzag/example1.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "xc1Bf0tb+ZWLG7effGPqwYB5kMpbatmyFfdSGGOy/KY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "XTW1/MT8Weht8SlaNncaXktWafmjsI5E9k0GXMnBQSA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot build incrementally because last build info is missing.",
+        "incrementalPhase": "build",
+        "total_file_count": 0,
+        "skipped_file_count": 0,
+        "full_build_reason_code": "NoAvailableBuildCache"
+      },
+      "processors": {
+        "ConceptualDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 79,
+          "skipped_file_count": 0
+        },
+        "ResourceDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor ResourceDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        },
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot support incremental post processing, the reason is: should not trace intermediate info.",
+        "incrementalPhase": "postProcessing",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
